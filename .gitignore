@@ -1,0 +1,4 @@
+.devcontainer
+supervisord.log
+supervisord.pid
+.vscode
